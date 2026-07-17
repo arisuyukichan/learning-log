@@ -9,3 +9,4 @@ Started: $(date +%Y-%m-%d)
 - `log/` — daily entries
 - `goals.md` — what I want from this
 - `typing-progress.md` — wpm tracker
+Day 4 of 245
